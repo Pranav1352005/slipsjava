@@ -1,21 +1,3 @@
-TY BCS
-
-Java Programming - I
-Solved Practical Slips
-2022-23
-
-Solution Credit goes to
-Akshay, Deep, Atharv, Maithili, Sakshi, Shreya, Prajakta
-www.nrclassespune.com | www.bcsbca.com
-Subscribe to our YouTube Channel for BCS Study videos
-https://www.youtube.com/@NRClasses
-Click on the below link to join our Free Study Material WhatsApp Group
-https://chat.whatsapp.com/J8vwXvDl2EW9htNH0LckU9
-
-Follow us on Instagram
-@logic_overflow
-
-MOBILE: 9730381255 | WWW.NRCLASSESPUNE.COM | WWW.BCSBCA.COM
 
 Slip 1_1: Write a Program to print all Prime numbers in an array of ‘n’
 elements.(use command line arguments)
@@ -116,7 +98,7 @@ height using command line arguments. Calculate the BMI Index which is defined as
 individual's body massdivided by the square of their height.
 (Hint : BMI = Wts. In kgs / (ht)2
 
-MOBILE: 9730381255 | WWW.NRCLASSESPUNE.COM | WWW.BCSBCA.COM
+
 
 // body mass index
 class BM {
@@ -152,7 +134,7 @@ batavg=0;
 }
 public void get() throws IOException{
 
-MOBILE: 9730381255 | WWW.NRCLASSESPUNE.COM | WWW.BCSBCA.COM
+
 
 BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 System.out.println("Enter the name, no of innings, no of times not out, total runs: ");
@@ -190,7 +172,7 @@ c[j].name=temp1;
 temp2=c[i].inning;
 c[i].inning=c[j].inning;
 
-MOBILE: 9730381255 | WWW.NRCLASSESPUNE.COM | WWW.BCSBCA.COM
+
 
 c[j].inning=temp2;
 temp3=c[i].tofnotout;
@@ -224,7 +206,7 @@ c[i].put();
 }
 }
 
-MOBILE: 9730381255 | WWW.NRCLASSESPUNE.COM | WWW.BCSBCA.COM
+
 
 }
 

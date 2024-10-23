@@ -3373,7 +3373,7 @@ break;
 }
 }
 
-MOBILE: 9730381255 | WWW.NRCLASSESPUNE.COM | WWW.BCSBCA.COM
+
 
 Slip30_1: Write program to define class Person with data member as
 Personname,Aadharno, Panno. Accept information for 5 objects and display appropriate
@@ -3419,7 +3419,6 @@ NumberFormatException. If Number2 were Zero, the program would throw an
 Arithmetic Exception Display the exception in a message
 dialog box
 
-MOBILE: 9730381255 | WWW.NRCLASSESPUNE.COM | WWW.BCSBCA.COM
 
 import javax.swing.*;
 import java.awt.*;
@@ -3463,7 +3462,7 @@ catch(NumberFormatException e)
 System.out.println("Enter a valid number!");
 }
 
-MOBILE: 9730381255 | WWW.NRCLASSESPUNE.COM | WWW.BCSBCA.COM
+
 
 catch(ArithmeticException o)
 {
@@ -3479,18 +3478,5 @@ System.out.println("Divided by zero");
 public static void main(String args[])
 Division ob1=new Division();
 
-www.nrclassespune.com | www.bcsbca.com
-Subscribe to our YouTube Channel for BCS Study videos
-https://www.youtube.com/@NRClasses
-Click on the below link to join our Free Study Material WhatsApp Group
-https://chat.whatsapp.com/J8vwXvDl2EW9htNH0LckU9
-
-TO JOIN NR CLASSES LLP
-WhatsApp on
-9730381255
-Follow us on Instagram
-@logic_overflow
-
-MOBILE: 9730381255 | WWW.NRCLASSESPUNE.COM | WWW.BCSBCA.COM
 
 
